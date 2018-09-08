@@ -1,0 +1,3 @@
+n=(input())
+p=(n*(n+1))/2
+print(P)
