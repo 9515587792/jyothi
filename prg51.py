@@ -34,4 +34,4 @@ for i in range(0,count):
 
         g=''
 
-    print(s[i],end=g)
+    print(s[i],g)
